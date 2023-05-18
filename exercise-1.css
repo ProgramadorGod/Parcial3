@@ -1,0 +1,52 @@
+body{
+    background-color: #F5F5F5;
+
+}
+
+
+form{
+    text-align: center;
+}
+
+#Butts{
+    margin-bottom: 15px;
+
+}
+
+.ButtonsG {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #000000;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0px #000000;
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+    transition: transform 1s ease-in-out;
+
+    align-items: center;
+    position: relative;
+    margin: 15px ;
+
+    
+  }
+.ButtonsG:hover{
+    border-color: #28ac84;
+    background-color: #edfcfd;
+    transform: scale(105%);
+}
+
+#allmanvideos{
+    width: 200px;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.manrutine{
+    max-width: 100%
+
+}
